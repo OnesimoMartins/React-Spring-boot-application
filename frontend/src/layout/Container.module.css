@@ -1,0 +1,12 @@
+.container{
+
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 0;
+
+    flex-direction: column ;
+    display:flex;
+    min-height:105vh ;
+   
+}
